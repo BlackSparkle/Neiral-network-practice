@@ -1,0 +1,7 @@
+
+
+def neural_network(input, weight):
+{
+     prediction = input*weight
+     return prediction
+}
